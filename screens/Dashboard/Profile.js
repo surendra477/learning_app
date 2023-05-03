@@ -25,8 +25,6 @@ const Profile = ({appTheme,toggleTheme}) => {
             toggleTheme('light')
         }
     }
-
-
     function renderProfileCard() {
         return (
             <View
